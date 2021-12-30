@@ -23,21 +23,19 @@ h2 {
 }
 
 a {
-	color: black;
+	color: white;
 	text-decoration: none;
 }
 
 #nav {
 	text-align: center;
-	background-color: olivedrab;
 }
 
 #nav li {
 	list-style-type: none;
-	padding: 3px 3px 3px 3px;
+	padding: 3px 3px 0px 3px;
 	display: inline-block;
 	text-transform: uppercase;
-	color: white;
 }
 
 #nav li:hover {
